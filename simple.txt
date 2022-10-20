@@ -1,1 +1,2 @@
 Paste^J Justify^/Go To Line
+git clone "path"
